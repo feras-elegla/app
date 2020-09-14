@@ -1,0 +1,41 @@
+
+body{background:#333;}
+/*
+.navbar-nav li a{color: red;}
+.navbar-brand{color: red;
+
+background: red;
+}
+ul{float: right;
+margin: 0;
+}
+.navbar-fixed-top{
+    position: fixed;
+    
+}
+.d{padding: 500px;}
+.bg-light{
+    color: red;
+}
+.navbar-light{
+  width: 100%;
+    background-color: darkgray;
+}
+.in{float: right;
+background-color: cornflowerblue;
+    margin-left: 100%;
+}
+*/
+/*
+.carousel-item{
+    
+    max-height: 500px;
+    max-width: 500px;
+} 
+
+*/
+.carousel-inner{width: 100%;}
+.carousel{width: 50%;
+overflow: hidden;
+    height: 500px;;
+}

@@ -1,0 +1,18 @@
+.subscrib h1,.statistics .data ,.our-skills .progress-bar,.fields,.footer .copy-right span ,.color-box .ul-color ,.footer h3,.skills-info h1,.subscrib  h1,.our-team
+.team h1,.carousel-indicators
+.active,.our-features  h1,.navbar-dark .navbar-brand
+{
+   
+    color:crimson;
+    transition: 1s;
+    
+}
+
+.color-box .gear {background: transparent;
+border: none;
+    transition: 1s;
+    color: crimson;
+}
+
+ .carousel-indicators
+.active,.navbar-nav .active,.navbar-nav .nav-item .dropdown-menu a:hover,.navbar-nav .nav-item:hover{background-color:crimson;  transition: 1s;}
